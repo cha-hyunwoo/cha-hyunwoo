@@ -1,16 +1,14 @@
-## Hi there 👋
+### 👋 안녕하세요! 백엔드 개발자를 희망하는 차현우입니다.
+현재 **Java**와 **Spring Boot**를 깊게 파고 있으며, 매일 꾸준히 학습한 내용을 기록하고 있습니다.
 
-<!--
-**2471005-ChaHyunWoo/2471005-ChaHyunWoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📚 Currently Learning
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🏆 Algorithm & Stats
+| <center>Solved.ac Tier</center> | <center>GitHub Stats</center> |
+| :---: | :---: |
+| [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckgusdn10)](https://solved.ac/ckgusdn10) | [![GitHub stats](https://github-readme-stats.vercel.app/api?username=2471005-ChaHyunWoo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |

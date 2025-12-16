@@ -11,4 +11,4 @@
 ### 🏆 Algorithm & Stats
 | <center>Solved.ac Tier</center> | <center>GitHub Stats</center> |
 | :---: | :---: |
-| [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckgusdn10)](https://solved.ac/ckgusdn10) | [![GitHub stats](https://github-readme-stats.vercel.app/api?username=2471005-ChaHyunWoo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckgusdn10)](https://solved.ac/ckgusdn10) | [![GitHub stats](https://github-readme-stats.vercel.app/api?username=cha-hyunwoo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |

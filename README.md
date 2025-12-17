@@ -4,11 +4,11 @@
 ---
 
 ### 📚 Currently Learning
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/-SQLD-4479A1?style=flat-square&logo=mysql&logoColor=white"/>  <img src="https://img.shields.io/badge/Linux%20Master-Level%202-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 
 ---
 
 ### 🏆 Algorithm & Stats
 | <center>Solved.ac Tier</center> | <center>GitHub Stats</center> |
 | :---: | :---: |
-| [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckgusdn10)](https://solved.ac/ckgusdn10) | [![GitHub stats](https://github-readme-stats.vercel.app/api?username=cha-hyunwoo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckgusdn10&t=20251217)](https://solved.ac/ckgusdn10) | [![GitHub stats](https://github-readme-stats.vercel.app/api?username=cha-hyunwoo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |

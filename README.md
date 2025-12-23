@@ -7,7 +7,11 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/-SQLD-4479A1?style=flat-square&logo=mysql&logoColor=white"/>  <img src="https://img.shields.io/badge/Linux%20Master-Level%202-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 
 ---
+### 📜 Certifications
 [![Google AI Essentials](https://img.shields.io/badge/Google_AI-Essentials-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=4285F4)](https://coursera.org/share/0cdb941110672d6536f3b1b335e26c13)
+
+---
+
 ### 🏆 Algorithm & Stats
 | <center>Solved.ac Tier</center> | <center>GitHub Stats</center> |
 | :---: | :---: |

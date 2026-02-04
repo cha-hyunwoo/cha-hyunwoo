@@ -1,10 +1,6 @@
-### 👋 안녕하세요! 백엔드 개발자를 희망하는 차현우입니다.
-현재 **Java**와 **Spring Boot**를 깊게 파고 있으며, 매일 꾸준히 학습한 내용을 기록하고 있습니다.
-
----
-
 ### 📚 Currently Learning
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/SQLD-4479A1?style=flat-square&logo=mysql&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/SQLD-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+- **Intern-in-Meta** (가상 인턴십 프로그램) React 기반 실무 협업 프로세스 | 2026.01 ~ 진행 중
 
 ---
 

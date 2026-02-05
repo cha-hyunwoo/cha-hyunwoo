@@ -1,6 +1,6 @@
 ### 📚 Currently Learning
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/SQLD-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-- **Intern-in-Meta** (가상 인턴십 프로그램) React 기반 실무 협업 프로세스 | 2026.01 ~ 진행 중
+- **Intern-in-Meta** (가상 인턴십 프로그램) React 기반 실무 협업 프로세스 | 2026.02 ~ 진행 중
 
 ---
 

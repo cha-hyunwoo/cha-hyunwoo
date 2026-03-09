@@ -9,7 +9,12 @@
 - [![Google AI Essentials](https://img.shields.io/badge/Google_AI-Essentials-4285F4?style=flat-square&logo=google&logoColor=white)](https://coursera.org/share/0cdb941110672d6536f3b1b335e26c13)
 
 ---
+### 🤝 Experience
+#### UMC (University MakeUs Challenge)
+- 10th Gen: Springboot 파트 챌린저(26.03 ~ 진행 중)
 
+
+---
 ### 🏆 Algorithm & Stats
 <p align="left">
   <a href="https://solved.ac/ckgusdn10">

@@ -5,7 +5,7 @@
 ### 🤝 Experience
 #### UMC (University MakeUs Challenge)
 - 10th Gen: Springboot 파트 챌린저 (26.03 ~ 진행 중)
-#### Intern-in-Meta (가상 인턴십 프로그램) React 기반 실무 협업 프로세스 (26.02 ~ 진행 중)
+#### Intern-in-Meta (가상 인턴십 프로그램) React 기반 실무 협업 프로세스 (26.02 ~ 26.03)
 
 ---
 ### 🏆 Algorithm & Stats

@@ -11,7 +11,7 @@
 ### 🏆 Algorithm & Stats
 <p align="left">
   <a href="https://solved.ac/ckgusdn10">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ckgusdn10" height="150">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ckgusdn10&v=1" height="150">
   </a>
   <a href="https://github.com/cha-hyunwoo">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=cha-hyunwoo&show_icons=true&theme=radical" height="150">

@@ -5,6 +5,8 @@
 ### 🤝 Experience
 #### UMC (University MakeUs Challenge)
 - 10th Gen: Springboot 파트 챌린저 (26.03 ~ 진행 중)
+#### 한성대학교 AI·SW 산학연계프로젝트 해외연수 (26.06.28 ~ 26.07.07)
+  - 해외 기업 및 대학 방문을 통한 AI·SW 관련 산학연계 프로젝트 수행
 #### Intern-in-Meta (가상 인턴십 프로그램) React 기반 실무 협업 프로세스 (26.02 ~ 26.03)
 
 ---
